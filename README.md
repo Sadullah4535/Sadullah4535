@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Sadullah Çelik. I am working as an associate professor of statistics at Aydın Adnan Menderes University in Türkiye.
 - 👀I am interested in the application areas of synthetic data.
 - 🌱 I’m currently learning Deep Learning with python
+-  I study Metaverse technologies.
 - 📫You can reach me at ssadullah.celik@gmail.com.
 - 💞️ I’m looking to collaborate on ...
 <!---
